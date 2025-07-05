@@ -1,11 +1,10 @@
 {
   "name": "RUlist_ilya",
-   "version": "1.0.3",
+  "version": "1.0.4",
   "title": "Русский перевод модов Факторио",
   "description": "RUS",
   "author": "Сообщество Факторио, ИИ",
   "factorio_version": "2.0",
   "dependencies": [
-	"base >= 2.0.0",
-    ]
-}
+  ]
+} 
