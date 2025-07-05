@@ -1,0 +1,26 @@
+{
+  "name": "RUlist_ilya",
+   "version": "1.0.0",
+  "title": "Русский перевод модов Факторио",
+  "description": "RUS",
+  "author": "Сообщество Факторио, ИИ",
+  "factorio_version": "2.0",
+  "dependencies": [
+	"base >= 2.0.0",
+  "?Better_Robots_Extended >= 1.1.4",
+	"?power-armor-mk3 >= 1.0.4",
+	"?foundry-expanded >= 1.0.0",
+	"?basic-artillery >= 1.5.0",
+	"?armoredWall >= 1.1.1",
+	"?landing-pad-research >= 1.0.0",
+	"?RailSignalPlanner >=2.0.1",
+	"?Voidcraft >=1.2.3",
+	"?VoidBlock >=1.0.5",
+	"?Kux-OrbitalIonCannon >=3.8.4",
+	"?rp_steam_roboports >=2.0.1",
+	"?rp_steam_intermediates >=0.0.4",
+	"?tenebris >=0.2.1",
+	"?Repair_Turret >=2.0.2",
+	"?concrete-productivity-modified >=1.0.1"
+    ]
+}
