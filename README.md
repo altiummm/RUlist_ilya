@@ -34,3 +34,8 @@
 
 - Список включенных модов смотрите на странице мода - https://mods.factorio.com/mod/RUlist_ilya/dependencies
 - Или в файле описания - https://github.com/altiummm/RUlist_ilya/blob/main/info.json
+
+
+
+Планы 1.2.0
+Реализовать перевод на недостающий/неполный перевод других модов
