@@ -13,7 +13,8 @@
    - Windows: `C:\Users\[Ваше_имя]\AppData\Roaming\Factorio\mods`
    - Linux: `~/.factorio/mods`
    - MacOS: `~/Library/Application Support/factorio/mods`
-3. Перезапустите игру.
+3. Замените тире на нижнее подчеркивание перед версией: RUlist_ilya-1.0.9 > RUlist_ilya_1.0.9  (я не знаю как это победить в самом гитхаб)
+4. Перезапустите игру.
 
 ## Как работает ИИ-перевод
 
