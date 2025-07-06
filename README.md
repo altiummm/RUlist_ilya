@@ -32,5 +32,5 @@
 
 ## Список моды
 
-Список включенных модов смотрите на странице мода - https://mods.factorio.com/mod/RUlist_ilya/dependencies
-Или в файле описания - https://github.com/altiummm/RUlist_ilya/blob/main/info.json
+- Список включенных модов смотрите на странице мода - https://mods.factorio.com/mod/RUlist_ilya/dependencies
+- Или в файле описания - https://github.com/altiummm/RUlist_ilya/blob/main/info.json
