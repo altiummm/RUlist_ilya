@@ -33,4 +33,4 @@
 ## Список моды
 
 - [c5-galaxy](https://mods.factorio.com/mod/c5-galaxy) - У автора ошибка по определению кнопки быстрого действия, перевод по ней не работает.
-- [factorio-admin-command-center]([https://mods.factorio.com/mod/c5-galaxy](https://mods.factorio.com/mod/factorio-admin-command-center))
+- [factorio-admin-command-center](https://mods.factorio.com/mod/factorio-admin-command-center)
