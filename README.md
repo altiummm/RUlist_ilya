@@ -32,7 +32,5 @@
 
 ## Список моды
 
-- [c5-galaxy](https://mods.factorio.com/mod/c5-galaxy) - У автора ошибка по определению кнопки быстрого действия, перевод по ней не работает.
-- [factorio-admin-command-center](https://mods.factorio.com/mod/factorio-admin-command-center)
-- [cubium](https://mods.factorio.com/mod/cubium)
-- 
+Список включенных модов смотрите на странице мода - https://mods.factorio.com/mod/RUlist_ilya/dependencies
+Или в файле описания - https://github.com/altiummm/RUlist_ilya/blob/main/info.json
