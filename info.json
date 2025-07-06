@@ -1,6 +1,6 @@
 {
   "name": "RUlist_ilya",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "title": "Русский перевод модов Факторио",
   "description": "Русский перевод модов Факторио, для личного и всеобщего пользования. Отказ от ответственности.",
   "author": "Сообщество Факторио, ИИ",
@@ -115,7 +115,6 @@
     "?tile-upgrade-planner-muluna",
     "?train-loader",
     "?turbines-plusplus-reloaded",
-    "?txt.txt",
     "?underground-heat-pipe",
     "?vanilla_galore_continued",
     "?VisionRadar",
