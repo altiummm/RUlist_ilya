@@ -10,7 +10,7 @@
 
 1. Скачайте последнюю версию локализаций из раздела [Releases](https://github.com/altiummm/RUlist_ilya/releases).
    - Или с мод портала Факторио - https://mods.factorio.com/mod/RUlist_ilya. Название мода для поиска - RUlist_ilya
-3. Распакуйте архив в папку с модами Factorio:
+3. Распакуйте папку из архива в папку с модами Factorio:
    - Windows: `C:\Users\[Ваше_имя]\AppData\Roaming\Factorio\mods`
    - Linux: `~/.factorio/mods`
    - MacOS: `~/Library/Application Support/factorio/mods`
