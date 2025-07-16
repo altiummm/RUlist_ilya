@@ -1,13 +1,15 @@
 {
   "name": "RUlist_ilya",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "title": "Русский перевод модов Факторио",
   "description": "Русский перевод модов Факторио, для личного и всеобщего пользования. Отказ от ответственности.",
   "author": "Сообщество Факторио, ИИ",
   "factorio_version": "2.0",
   "dependencies": [
-    "?Accumulator-V2",
+"?Accumulator-V2",
+"?RoboportRangeMultiplier",
 "?AfraidOfTheDark",
+"?RobotPowerMultiplier",
 "?Age-of-Production",
 "?Aircraft-space-age",
 "?ArmouredBiters",
